@@ -46,7 +46,7 @@ Bu proje aşağıdaki teknolojiler kullanılarak geliştirilmiştir:
 ## Katkıda Bulunma
 
 - [Rasperon C](https://github.com/rasperon)
-
+- [Yarderun](https://github.com/yarderun)
 ## Lisans
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
